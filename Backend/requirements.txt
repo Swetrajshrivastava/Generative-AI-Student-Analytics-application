@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+email-validator
+python-dotenv
+pandas
+openpyxl
+xlrd
+groq
+python-multipart
